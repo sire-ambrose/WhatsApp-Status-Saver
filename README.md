@@ -1,6 +1,12 @@
 # WhatsApp-Status-Saver
 
-An apk app that saves whatsapp status built with python 
+An apk app that saves whatsapp status built with python
+ 
+## Downloading
+1. Click on view code above
+2. Click on sire-0.1-armeabi-v7a-debug (10).apk
+3. Click on view raw
+
 ## Installation
 1. Download the file from GitHub
 2. Install the saver APK file
